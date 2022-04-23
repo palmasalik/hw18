@@ -1,0 +1,411 @@
+@media(max-width:1280px){
+.container{
+    max-width:1140px;
+}
+
+.link , .list{
+    margin: 0 13px;
+}
+.imo2{width: 520px;}
+.imoshka{width: 545px;}
+.imo4{width: 500px;}
+.tor , .odin{
+    font-size: 19px;
+    width: 209px;
+}
+.loki , .lofey{
+    font-size: 22px;
+    width: 383px;
+}
+.imo5 , .imo6 , .imosh1 , .imosh2{
+    width: 400px;
+}
+.left-four , .right-four , .right-top , .left-top{width: 360px;}
+.isha{width: 600px;}
+.hela {
+    width: max-content;}
+    .hel {
+        width: 234px;}
+
+        .ad {
+            font-size: 21px;
+            width: 265px;
+        }
+        .oliver {
+            font-size: 25px;
+            line-height: 35px;
+            width: 233px;
+        }
+        .tea {
+            font-size: 17px;
+            width: 227px;
+        }
+        .center{
+            width: 238px;
+            padding: 32px 20px 106px 20px;
+        }
+        .centerq{
+            width: 238px;
+            padding: 32px 20px 70px 20px;
+        }
+        .podtext , .podtextq {
+            font-size: 16px;
+            width: 237px;
+        }
+        .eight-content , .five-content{
+            justify-content: space-evenly;
+        }
+}
+
+@media(max-width:1140px){
+    .container{
+        max-width:960px;
+    }
+    .link, .list {
+        margin: 0 2px;
+    }
+    .list {
+        padding: 10px 20px;
+    }
+    .text {
+    font-size: 35px;
+    line-height: 42px;
+    width: 262px;
+}
+.title {
+ width: 238px;
+
+}
+.imo2 {
+    width: 432px;
+}
+.first-content , .third-content , .fourth-content , .seven-content , .nine-content{
+    justify-content: space-evenly;
+}
+.text-first {
+    font-size: 33px;
+    line-height: 40px;
+    width: auto;
+}
+.second-text {
+    font-size: 27px;
+    line-height: 35px;
+    width: 275px;
+}
+.second-title {
+    font-size: 19px;
+    line-height: 28px;
+    width: 263px;
+}
+.second-about::before {
+    width: 261px;
+}
+.second-about {
+    font-size: 19px;
+    line-height: 28px;
+    width: 251px;
+}
+.imoshka {
+    width: 389px;
+}
+.text-main {
+    font-size: 26px;
+    line-height: 36px;
+    width: 222px;
+}
+.title-main {
+    font-size: 18px;
+    width: 310px;
+}
+.imo4 {
+    width: 340px;
+    margin-right: 15px;
+}
+
+.left-four, .right-four, .right-top, .left-top {
+    width: 261px;
+}
+.loki, .lofey {
+    font-size: 21px;
+    width: 259px;
+}
+.imo5, .imo6, .imosh1, .imosh2 {
+    width: 281px;
+}
+.right-four{height: 350px;}
+.lofey{margin-bottom: 0;}
+.sort {
+    font-size: 25px;
+    line-height: 34px;
+    width: 200px;
+}
+.long {
+    font-size: 18px;
+    width: 226px;
+}
+.isha {
+    width: 423px;
+}
+.oliver {
+    font-size: 20px;
+    line-height: 25px;
+    width: 100%;
+    text-align: center;
+}
+.tea {
+    font-size: 22px;
+    width: 100%;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.asdfgh{width: 100%;}
+.nine-content{flex-wrap: wrap;}
+.imosh14{width: 200px;}
+.eleven-content{width: auto;}
+.twelve-content {
+    height: 272px;
+}
+}
+@media(max-width:960px){
+    .container{
+        max-width:720px;
+     }
+     .imo1{width: 70px;}
+     .left{display: block;}
+     .link{
+         display: inline-block; 
+     }
+     .first-content{display: block;    padding-bottom: 100px;
+     }
+     .text {
+        width: auto;
+    }
+    .title{margin-top: 20px;}
+    .imo2 {
+       width: 100%;
+        margin-top: 40px;
+    }
+    .third-content , .fourth-content , .five-content , .seven-content , .eight-content{display: block;}
+.left-second{text-align: center;}
+.second-text , .second-title , .second-about, .second-about::before{width: 100%;}
+
+.imoshka , .imo4 , .isha {
+    width: 100%;
+}
+.left-four , .left-top{margin-bottom: 30px;}
+.center {
+    width: 238px;
+    padding: 21px 20px 35px 20px;
+    margin-bottom: 30px;
+}.centerq {
+    width: 238px;
+    padding: 25px 20px 32px 20px;
+}
+.nelast{width: auto;}
+
+.twelve-content {
+    height: 231px;
+}
+.lefe{margin-right: 15px;}
+.poka {
+    font-size: 14px;
+    line-height: 21px;
+}
+.third-content{padding-left: 15px;}
+}    
+@media(max-width:720px){
+    .container{
+        max-width:540px;
+     }
+
+     .text-first {
+        font-size: 23px;
+    }
+    .left-four , .right-four .left-four, .left-top{
+        padding-top: 30px;
+        padding-right: 35px;
+padding-bottom: 0;
+        padding-left: 35px;
+    }
+    .loki , .lofey{margin-bottom: 15px;}
+    .right-four{height: auto;}
+    .ten-content{padding-top: 45px;}
+
+    .last {
+        font-size: 31px;
+        line-height: 21px;
+    }
+    .pl{margin-right: 8px;}
+}
+@media(max-width:540px){
+    .text {
+        font-size: 28px;
+        line-height: 37px;
+    }
+    .buttom {
+        font-size: 13px;
+    }
+        .first-content {
+            padding-bottom: 40px;
+        }
+        .text-first {
+            font-size: 21px ;    line-height: 31px;
+
+        }
+        .third-content , .seven-content{padding-top: 50px; padding-bottom: 50px;}
+        .flesh {
+            font-size: 29px;
+            line-height: 37px;
+        }
+        .textstikq , .textstik{font-size: 28px;}
+
+        .get {
+            font-size: 26px;
+        }
+        .got {
+            font-size: 13px;
+        }
+        .twelve-content {
+            height: 189px;
+        }
+
+}
+
+@media(max-width:450px){
+    .second-text {
+        font-size: 20px;
+        line-height: 32px;
+    }
+    .second-title {
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    .text-main {
+        font-size: 20px;
+        line-height: 29px;
+    }
+    .loki, .lofey , .ad {
+        font-size: 18px;
+        width: 259px;
+    }
+    .right-four ,.left-four, .left-four, .left-top  ,.right-top {
+        padding-top: 24px;
+        padding-right: 29px;
+padding-bottom: 0;
+        padding-left: 37px;
+
+    }
+    .flesh {
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .airys {
+        font-size: 17px;
+        line-height: 26px;
+    }
+.ad{margin-bottom: 0;}
+.nelast {
+
+    font-size: 18px;
+    line-height: 29px;
+}
+.imosh14 {
+    width: 160px;
+}
+.popo {
+    font-size: 15px;
+    line-height: 12px;
+}
+.last-content{display: block;     padding-top: 45px;
+ padding-bottom: 0;}
+.live , .tgr{text-align: center;}
+.awd{text-align: end;}
+.ok {
+
+    margin-bottom: 10px;
+}
+.twelve-content {
+    height: 150px;
+}
+.get {    margin-bottom: 17px;
+
+    font-size: 22px;
+}
+.got {
+    padding: 9px 23px;
+}
+}
+@media(max-width:450px){
+    .list{font-size: 12px;}
+    .nav-content {
+        align-items: flex-start;
+        padding-bottom: 16px;
+    }
+    .text {
+        font-size: 24px;
+        line-height: 29px;
+    }
+    .title {
+margin-top: 13px;
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .buttom{padding: 11px 24px; font-size: 12px;}.text-first {
+        font-size: 17px;
+        line-height: 27px;
+    }.about {
+        font-size: 17px;
+        line-height: 27px;
+        margin-bottom: 20px;
+    }.title-main {
+        font-size: 15px;
+        width: 230px;
+
+    }.left-four, .right-four, .right-top, .left-top {
+        width: 238px;
+    }.oliver {
+        font-size: 17px;
+        line-height: 23px;
+
+    }.tea {
+        font-size: 20px;
+
+    }.nine-content{padding: 15px;}.textstikq, .textstik {
+        font-size: 19px;     line-height: 28px;
+
+    }.slovo ,.slovoq {
+        font-size: 12px;
+        line-height: 19px;
+        margin-top: 14px;
+        margin-bottom: 7px;
+    }.last {
+        font-size: 20px;
+        line-height: 18px;
+    }.nelast {
+        font-size: 16px;
+        line-height: 24px;
+    }.lopa {
+        font-size: 15px;}.popo {
+            font-size: 11px;
+            line-height: 12px;
+        }.imosh14 {
+            width: 123px;
+        }.yoyo {
+
+            font-size: 10px;}.imo5, .imo6, .imosh1, .imosh2 {
+                width: 250px;
+            }
+            .get {
+                margin-bottom: 17px;
+                font-size: 19px;
+            }.poka{margin-bottom: 5px;}    .sort {
+                font-size: 18px;
+                line-height: 26px;
+                width: 193px;
+            }.long {
+                font-size: 15px;
+     line-height: 23px;
+            }        
+        
+}
